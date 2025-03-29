@@ -13,7 +13,7 @@ Firstly, I used the TIMSS data 2023 in Poland for mathematics to do feature sele
 - Predicts math performance in **3 levels**: High / Medium / Low
 - Interactive input interface with descriptive options
 - Built with R and Shiny
-- Easily deployable on [shinyapps.io](https://shinyapps.io)
+
 
 ---
 
